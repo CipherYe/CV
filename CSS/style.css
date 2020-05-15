@@ -1,0 +1,23 @@
+body {
+  background-color: #e3fdfd;
+}
+h1{
+  color:#58b4ae;
+}
+h1:hover {
+  color:#3f3f44;
+}
+h2{
+  color:#00a1ab;
+}
+h2:hover {
+  color:#3f3f44;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  border-color: #63b7af;
+  border-width:5px;
+  width: 50%;
+}
